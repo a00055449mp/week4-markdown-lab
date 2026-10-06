@@ -9,3 +9,5 @@
 1. first step
 2. second step
 [Visit Github](https://github.com)
+##Partners contribution
+- Added my name and a new bullet point
